@@ -1,1 +1,1 @@
-# Digitsl-clock
+# Digital-clock
